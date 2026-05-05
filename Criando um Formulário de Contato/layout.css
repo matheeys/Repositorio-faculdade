@@ -1,0 +1,12 @@
+nav {
+      justify-content: space-between;
+    }
+
+  main {
+      display: flex;
+       gap: 20px; 
+  }   
+  
+ .card {
+      flex: 1;
+ }
